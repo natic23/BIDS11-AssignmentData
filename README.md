@@ -39,6 +39,6 @@ filename1 = 'BIDS_2026_' # do not change this
 filename2 = '_test_predictions_' # do not change this
 filename3 = '.xlsx' # do not change this
 filename = filename1+CID+filename2+tp+filename3 # do not change this
-# save the predictions in the format you need to email me (is saved in the folder of the notebook)
-Y_pred_format.to_excel(filename)
+# save the predictions in the format you need to email us (is saved in the folder of the notebook)
+Y_pred_format.to_excel(filename, index=False) # dropping index to make it the same format
 ```
