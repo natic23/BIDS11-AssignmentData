@@ -1,7 +1,7 @@
 # Assignment_Data
 All materials for the assignment can be found here:
 <!-- - BIDS_assignment_training_data.xlsx -->
-- BIDS_assignment_training_data_unlabelled.xlsx (released after BIDS6 lecture)
+- BIDS_assignment_training_data_unlabelled.xlsx (released after BIDS6 tutorial)
 - BIDS_assignment_training_data.xlsx (released after BIDS10 tutorial)
 - BIDS_assignment_test_data.xlsx (released after BIDS10 tutorial)
 - BIDS_assignment_test_data_predictionsubmissionformat.xlsx (released after BIDS10 tutorial)
